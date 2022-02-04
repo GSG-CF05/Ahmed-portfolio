@@ -54,6 +54,7 @@ h2 {
  p {
   line-height: var(--line-height);
   padding: 1rem;
+  font-weight: bold;
  
 }
 
